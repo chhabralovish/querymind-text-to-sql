@@ -14,7 +14,9 @@
 
 ## Demo
 
-![QueryMind Demo](demo.png)
+![QueryMind Demo 1](demo1.png)
+
+![QueryMind Demo 2](demo2.png)
 
 ---
 
@@ -130,7 +132,7 @@ querymind-text-to-sql/
 
 ## Author
 
-**Lovish Chhabra** — Data Scientist & AI Engineer
+**Lovish Chhabra** — Senior Data Scientist & AI Engineer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/lovish-chhabra/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github)](https://github.com/chhabralovish)
