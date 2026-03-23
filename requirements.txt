@@ -1,0 +1,13 @@
+streamlit>=1.32.0
+
+# LangChain
+langchain>=1.0.0
+langchain-core>=0.3.0
+langchain-groq>=0.1.0
+
+# Data
+pandas>=2.0.0
+plotly>=5.18.0
+
+# Environment
+python-dotenv>=1.0.0
