@@ -1,0 +1,31 @@
+order_id,customer_name,category,product,region,quantity,unit_price,total_amount,order_date,status
+1001,Amit Sharma,Electronics,Laptop,North,1,75000,75000,2026-01-05,Completed
+1002,Priya Patel,Clothing,Winter Jacket,West,2,3500,7000,2026-01-07,Completed
+1003,Rahul Verma,Electronics,Smartphone,South,1,45000,45000,2026-01-10,Completed
+1004,Sneha Gupta,Home Appliances,Mixer Grinder,East,1,4500,4500,2026-01-12,Completed
+1005,Vikram Singh,Electronics,Laptop,North,2,75000,150000,2026-01-15,Completed
+1006,Anjali Mehta,Clothing,Saree,South,3,2500,7500,2026-01-18,Completed
+1007,Rohit Kumar,Home Appliances,Washing Machine,West,1,35000,35000,2026-01-20,Completed
+1008,Pooja Nair,Electronics,Tablet,East,1,25000,25000,2026-01-22,Completed
+1009,Suresh Reddy,Clothing,Formal Shirt,North,5,1500,7500,2026-01-25,Completed
+1010,Kavita Joshi,Home Appliances,Refrigerator,South,1,42000,42000,2026-01-28,Completed
+1011,Arun Pillai,Electronics,Smartwatch,West,2,15000,30000,2026-02-02,Completed
+1012,Deepa Iyer,Clothing,Kurta Set,North,4,2000,8000,2026-02-05,Completed
+1013,Manish Tiwari,Home Appliances,Air Conditioner,East,1,38000,38000,2026-02-08,Completed
+1014,Sunita Yadav,Electronics,Laptop,South,1,75000,75000,2026-02-10,Completed
+1015,Kiran Bose,Clothing,Jeans,West,3,2500,7500,2026-02-12,Completed
+1016,Naveen Rao,Home Appliances,Mixer Grinder,North,2,4500,9000,2026-02-15,Completed
+1017,Rekha Sharma,Electronics,Smartphone,East,1,45000,45000,2026-02-18,Completed
+1018,Ajay Malhotra,Clothing,Winter Jacket,South,2,3500,7000,2026-02-20,Completed
+1019,Swati Pandey,Home Appliances,Washing Machine,West,1,35000,35000,2026-02-22,Completed
+1020,Vijay Kulkarni,Electronics,Tablet,North,2,25000,50000,2026-02-25,Completed
+1021,Meena Desai,Clothing,Saree,East,5,2500,12500,2026-03-01,Completed
+1022,Ravi Shankar,Electronics,Laptop,South,1,75000,75000,2026-03-03,Completed
+1023,Anita Jain,Home Appliances,Refrigerator,West,1,42000,42000,2026-03-05,Completed
+1024,Sanjay Mishra,Clothing,Formal Shirt,North,4,1500,6000,2026-03-08,Completed
+1025,Lakshmi Nair,Electronics,Smartwatch,East,3,15000,45000,2026-03-10,Completed
+1026,Harish Gupta,Home Appliances,Air Conditioner,South,1,38000,38000,2026-03-12,Completed
+1027,Divya Menon,Clothing,Kurta Set,West,6,2000,12000,2026-03-15,Completed
+1028,Prakash Verma,Electronics,Smartphone,North,2,45000,90000,2026-03-18,Completed
+1029,Usha Pillai,Home Appliances,Mixer Grinder,East,3,4500,13500,2026-03-20,Completed
+1030,Chetan Sharma,Clothing,Jeans,South,4,2500,10000,2026-03-22,Completed
